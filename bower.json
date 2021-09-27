@@ -1,6 +1,10 @@
 {
   "name": "adapt-contrib-vanilla",
+<<<<<<< HEAD
+  "version": "5.7.2",
+=======
   "version": "5.7.1cn-1",
+>>>>>>> cb74c68 (1st upload)
   "framework": ">=5.3",
   "homepage": "https://github.com/adaptlearning/adapt-contrib-vanilla",
   "bugs": "https://github.com/adaptlearning/adapt-contrib-vanilla/issues",

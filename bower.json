@@ -1,11 +1,11 @@
 {
   "name": "adapt-contrib-vanilla",
-  "version": "5.7.1",
+  "version": "5.7.1cn-1",
   "framework": ">=5.3",
   "homepage": "https://github.com/adaptlearning/adapt-contrib-vanilla",
   "bugs": "https://github.com/adaptlearning/adapt-contrib-vanilla/issues",
   "theme": "vanilla",
-  "displayName": "Vanilla",
+  "displayName": "香草",
   "description": "A core bundled theme",
   "main": "js/theme.js",
   "keywords": [
